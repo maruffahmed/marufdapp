@@ -67,7 +67,7 @@ function Navbar(props) {
       ></LogoImg>
       </div>
       <div style={{ display: "flex", alignItems: "center", }}>
-    {/* <Popup trigger={<s.PopupPanel>
+    { <Popup trigger={<s.PopupPanel>
       <MintBtnImg
         src={"/config/images/mint.png"}
         style={{
@@ -83,8 +83,8 @@ function Navbar(props) {
       <div>Mint Clone Ticketz</div>
       
 
-    </Popup> */}
-      <a href="https://d14jas3qhdbdap.cloudfront.net/hellionz-whitepaper-0.01.pdf" target="_blank">
+    </Popup> }
+      <a href="https://fsdfsfsdfsdfsdfsfsdf" target="_blank">
       <BtnsImg
         src={"/config/images/wtppr.png"}
         style={{
@@ -116,17 +116,17 @@ function Navbar(props) {
           justifyContent: "center",
         }}
       >
-        <a href="https://opensea.io/collection/hellionz-clone-ticketz" target="_blank">
+        <a href="https://fdsfsdfsdfsdfsdfsdfsfsdfsdf" target="_blank">
           <OSSocialButton
             style={{ }}
           ></OSSocialButton>
           </a>
-          <a href="https://dsc.gg/hb-hellionz" target="_blank">
+          <a href="https://fsdfsdfsdfsdfsdf" target="_blank">
           <DisSocialButton
             style={{ }}
           ></DisSocialButton>
           </a>
-          <a href="https://twitter.com/hbHellionz/" target="_blank">
+          <a href="https://fsdfsdfsfsfsdfsdfsd" target="_blank">
           <TwitSocialButton
             style={{ }}
           ></TwitSocialButton>

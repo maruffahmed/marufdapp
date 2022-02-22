@@ -94,7 +94,7 @@ function NftIItemsDescription(props) {
           className="wow bounceIn"
           data-wow-offset="100"
           >
-            {"Hustle. Earn. Play."}
+            {"Ipsum. Lorem. Lorem."}
           </s.HeadPara>
             <s.TextPara
               style={{
@@ -104,14 +104,14 @@ function NftIItemsDescription(props) {
               data-wow-offset="100"
             >
               {
-                "Friends, welcome to Mt. Helena. After losing his casino to BowlHead and FlaskMan, the Devil is building a mountain metropolis where strategy, risk, and sacrifice are needed to get ahead. To speed things up, he has cloned an entire workforce from his closest followers. They are the Hellionz. Today, many projects have been finished and some Hellionz find themselves out of a job. Would you like to hire one?"
+                "adfdfasj fsd jflsdj fklasdjdf lkjsdlka fjsdlkf jslka sdf sdkjf lsakdfj lsdjf lkadsjlf ksdjflk ajslkdf jsldkajf kdf asdf sdaf"
               }
             </s.TextPara>
           </div>
         </NFTItem>
         <NFTItem order={2} style={{ display: "flex", justifyContent: "center" }}>
           <LsmallImg
-            src={"/config/images/Story.png"}
+            src={"/config/images/TopPlaceHolder.png"}
             style={{
               marginTop: "14vh",
             }}
@@ -134,7 +134,7 @@ function NftIItemsDescription(props) {
         > */}
         <NFTItem order={2} style={{ display: "flex", justifyContent: "center" }}>
           <SmallImg
-            src={"/config/images/news.png"}
+            src={"/config/images/TopPlaceHolder.png"}
             style={{ marginTop: "14vh", }}
           ></SmallImg>
         </NFTItem>
@@ -145,7 +145,7 @@ function NftIItemsDescription(props) {
           className="wow bounceIn"
           data-wow-offset="100"
           >
-            {"What are Hellionz?"}
+            {"What is Lorem?"}
           </s.HeadPara>
             <s.TextPara
               style={{
@@ -155,7 +155,7 @@ function NftIItemsDescription(props) {
               data-wow-offset="100"
             >
               {
-                "Hellionz is a dynamic P2E ecosystem summoned to the Polygon Network. Stake your Hellionz NFTs on Hustle Street to yield $HellBux every 24 hours. Each Hellionz character has a unique role on Hustle Street, with different methods to yield precious 'Bux. $HellBux is our flagship ERC-20 token, giving holders access to future Hellionz drops, raffle tickets for prizes, games at the Smoky Poker, and more."
+                "dfsdfjsdfj lsdkjf lkajsdfl kdjfl asjdlfkjsdlakfjnsldjfnsdljfkjadsnfdjsnfkdksdjnfjsn fklajsndf sdkafnds lknfs alkndfsdajkfn sadnf ldnf lsakdfn ldsnflsadnf ldnfl nasdlkf sd"
               }
             </s.TextPara>
           </div>
@@ -182,14 +182,14 @@ function NftIItemsDescription(props) {
               data-wow-offset="100"
             >
               {
-                "Hellionz is more than just another yield farm. It is a thriving community where Hellionz climb the corporate ladder for $HellBux, only to wager it all on wild gambles at the Smokey Poker. As the Hellionz ecosystem develops, more risk and strategy will be needed to get the most out of your Hellionz. Currently, the Devil is leading all Hellionz towards the launch of our Genesis collection in early Q2. After that, our community will take control and vote on our next direction."
+                "sdfjfksdjflksd lkfjlsdk fajsdlf jsdlkf jsadlkf jsdlkaf jlasdkjfl sjdkf jdsljf lasdkjf kldsjfk sajdlkf jldksjaf lsjdf kldjflk asjdlfk jdlkfj asldkf sdf"
               }
             </s.TextPara>
           </div>
         </NFTItem>
         <NFTItem order={2} style={{display: "flex", justifyContent: "center"}}>
           <RmImg
-            src={"/config/images/roadmap.png"}
+            src={"/config/images/TopPlaceHolder.png"}
             style={{
               marginTop: "14vh",
             }}

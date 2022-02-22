@@ -398,11 +398,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"Hellionz Clone Ticketz"} 
+                {"Lorem Lorem"} 
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "For some reason, the 'Devil Multiplier' was designed to accept tickets. 89.69% of ticket supply was spent to create the Hellionz workforce, with the rest hidden and forgotten..until now. Valuable devils who offer support to Hellionz will be offered the chance to mint Ticketz. Why hire Hellionz at the market rate when you can clone some at a discount? For details on Ticketz visit the Hellionz discord server. "
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -414,11 +414,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"Hellionz Genesis"}
+                {"Lorem Lorem"}
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "The Devil has discovered NetSuite, and all Hellionz cloned from 'Frisk The Accountant' are in deep trouble. Soon there will be 6,666 Hellionz looking for a new master to slave for. All Hellionz can hustle, but some just want it more. All Hellionz Genesis will have a DETERMINATION rating, which affects $HellBux yield when staked. Rare 1/1 Hellionz are the most determined to aquire treasured $HellBux."
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -430,11 +430,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"Hustle Street"}
+                {"Lorem Lorem"}
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "All roads lead to Hustle Street, where Hellionz gather to push buttons, backstab co-workers, and open shady businesses hidden from the Devil. All Hellionz staked to work on Hustle Street yield $HellBux every second for thier owners. As the Devil fires more of his workforce, new Hellionz characters will enter Hustle Steet. Careful strategy will be needed to get the most out of your Hellionz. Hustle Street will open no later than 5 days after Hellionz Genesis is released. "
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -446,11 +446,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"Exclusive Hellionz Community and Raffles"}
+                {"Lorem Lorem"}
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "After Hellionz Genesis, holders will have exclusive access to a private channel. We will discuss the future of Hellionz, share degen stories, and plan our next moves together. There will be raffles for free Hellionz and rewards in MATIC, and tickets will require $HellBux to mint. Hellionz thrives on honest feedback from the community, and we're always open to creative ideas and suggestions from members."
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -462,11 +462,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"Invasion Snapshotz"}
+                {"Lorem Lorem"}
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "Our early supporters are the real VIPs, and Invasion Snapshotz is one way we try to give back. Snaphotz are a collection of 20 hand-drawn watercolor artworks in NFT form. All Snapshotz are FREE to claim and feature scenes from Hellionz lore. 1 Hellionz Genesis must be paired with 1 Clone Ticket to claim, and pairs are single use only. Prior to release the community will vote on whether Snaphotz should offer some utility or perk."
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -478,11 +478,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"Hellionz Wildfire"}
+                {"Lorem Lorem"}
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "Hellionz Wildfire is the next planned collection, introducing 3 new characters to stake on Hustle Street. Wildfire will introduce Burn, steal, and upgrade mechanics. More details to be released after the Genesis launch."
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -494,11 +494,11 @@ function App() {
                   display: "flex", fontFamily: "Marvin", justifyContent: "flex-start",
                 }}
               >
-                {"The Smokey Poker"}
+                {"Lorem Lorem"}
               </s.RdHead>
               <s.SmTextPara style={{ marginTop: "3vh" }}>
                 {
-                  "At the Smokey Poker, $HellBux is won and lost on a roll of the dice. Risk it all on games of chance and let out your inner degen! Starting with dice, future games will be designed with the help of our community. There have been rumors of secret trophies, with the power to turn the odds in your favour and double your investment.."
+                  "dfjsdfj lkdjsf lkadjsfl kjsdlfk jsdfkljsd lajflksajfd lkdsjflk jsdlkf jsdklf jsalkjf kdsjf ldkjflk djslfk sdjf sadkjf lsdkjf lkdjf ldkajf lkjsdalkfj skdljf lsdjfkl jsdlkfj asldkfds f"
                 }
               </s.SmTextPara>
             </div>
@@ -518,7 +518,7 @@ function App() {
         }}
       >
         <FaqImg
-          src={"/config/images/faqimg.png"}
+          src={"/config/images/TopPlaceholder.png"}
           flex={1}
           style={{
             display: "flex",
