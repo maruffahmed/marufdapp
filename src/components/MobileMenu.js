@@ -39,7 +39,7 @@ function MobileMenu(props) {
       >
         {"Something"}
       </s.TextPara> */}
-       <a href="https://d14jas3qhdbdap.cloudfront.net/hellionz-whitepaper-0.01.pdf" target="_blank">
+       <a href="https:dfsdfsdfsdf sd" target="_blank">
       <LogoImg
         src={"/config/images/wtppr.png"}
         style={{ display: "block",}}

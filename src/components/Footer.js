@@ -170,7 +170,7 @@ function Footer() {
         ></SymbolImg>
         <s.SpacerMedium></s.SpacerMedium>
         {/* <s.TextPara data-wow-offset="100" style={{fontFamily: "marvin",}} >{"Hellionz"}</s.TextPara> */}
-        <s.TextFooter>{"© 2022 All Rights Reserved | Hellionz"}</s.TextFooter>
+        <s.TextFooter>{"© sdfsdfsdf"}</s.TextFooter>
         <s.Container
           flex={1}
           style={{
@@ -180,17 +180,17 @@ function Footer() {
             maxWidth: "25vw",
           }}
         >
-          <a href="https://opensea.io/collection/hellionz-clone-ticketz" target="_blank">
+          <a href="https://dfadsfsdlfsdfsdffds" target="_blank">
             <OSSocialButton
               style={{ margin: "1rem", marginRight: "1vw" }}
             ></OSSocialButton>
           </a>
-          <a href="https://dsc.gg/hb-hellionz" target="_blank">
+          <a href="https://dsc.gg/dfsdfsdfsdfsdfsdf" target="_blank">
             <DisSocialButton
               style={{ margin: "1rem", marginRight: "1vw" }}
             ></DisSocialButton>
           </a>
-          <a href="https://twitter.com/hbHellionz/" target="_blank">
+          <a href="https://fsdfsdfsdfsfjsdfdf" target="_blank">
             <TwitSocialButton
               style={{ margin: "1rem", marginRight: "1vw" }}
             ></TwitSocialButton>
